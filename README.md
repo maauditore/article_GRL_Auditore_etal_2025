@@ -1,4 +1,4 @@
-# swot-coastal-eddy-study
+# article_GRL_Auditore_etal_2025 
 
 
 ## Description
