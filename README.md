@@ -1,5 +1,6 @@
-# article_GRL_Auditore_etal_2025 
+[![DOI](https://zenodo.org/badge/1083046425.svg)](https://doi.org/10.5281/zenodo.18009141)
 
+# article_GRL_Auditore_etal_2025 
 
 ## Description
 
